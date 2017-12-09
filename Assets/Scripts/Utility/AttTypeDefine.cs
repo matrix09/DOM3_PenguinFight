@@ -26,6 +26,14 @@ namespace AttTypeDefine  {
         Character_SystemControl,
     };
 
+    //相机类型
+    public enum eCameraType
+    {
+        Cam_Anim,
+        Cam_Follow,
+    }
+
+
 
 
 	

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOM3_PenguinFight.CSharp", "DOM3_PenguinFight.CSharp.csproj", "{AA777DFE-00BA-0AC6-F62B-30634559DD53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOM3_PenguinFight.CSharp.Editor", "DOM3_PenguinFight.CSharp.Editor.csproj", "{5AA0BDAC-7A6C-ACBB-D2A5-95A196BB1FB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA777DFE-00BA-0AC6-F62B-30634559DD53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA777DFE-00BA-0AC6-F62B-30634559DD53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA777DFE-00BA-0AC6-F62B-30634559DD53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA777DFE-00BA-0AC6-F62B-30634559DD53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AA0BDAC-7A6C-ACBB-D2A5-95A196BB1FB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AA0BDAC-7A6C-ACBB-D2A5-95A196BB1FB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AA0BDAC-7A6C-ACBB-D2A5-95A196BB1FB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AA0BDAC-7A6C-ACBB-D2A5-95A196BB1FB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
