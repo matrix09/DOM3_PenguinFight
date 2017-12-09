@@ -215,6 +215,7 @@
     <Compile Include="Assets\NGUI\Scripts\Editor\UIWrapContentEditor.cs" />
     <Compile Include="Assets\Scripts\Editor\BaseActionEditor.cs" />
     <Compile Include="Assets\Scripts\Editor\BezierLineEditor.cs" />
+    <Compile Include="Assets\Scripts\Editor\CamActionEditor.cs" />
     <Compile Include="Assets\Scripts\Editor\StellarRouteEditor.cs" />
   </ItemGroup>
   <ItemGroup>
