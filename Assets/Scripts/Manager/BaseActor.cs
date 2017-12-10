@@ -120,5 +120,20 @@ public class BaseActor : MonoBehaviour
 
     #endregion
 
+    #region 主相机实例
+    private CameraCtrl cc;
+    public CameraCtrl CamCtrl
+    {
+        get
+        {
+            if (null == cc)
+            {
+                cc = Camera.main.GetComponent<CameraCtrl>();
+            }
+            return cc;
+        }
+
+    }
+    #endregion
 
 }

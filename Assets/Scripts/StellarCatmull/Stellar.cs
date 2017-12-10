@@ -94,7 +94,9 @@ namespace Assets.Scripts.Stellar
         public void AddPoint()
         {
             Vector3 pos = Points[Points.Length - 1];
+
             Array.Resize(ref Points, Points.Length + 3);
+            
             pos.x += 8;
             Points[Points.Length - 3] = pos;
             pos.x += 8;
