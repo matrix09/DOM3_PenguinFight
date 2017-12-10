@@ -9,3 +9,5 @@
 *.csproj
 *.suo
 DOM3_PenguinFight.CSharp.csproj
+*.csproj
+*.suo
